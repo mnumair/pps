@@ -1,0 +1,1 @@
+print("python6.py only")

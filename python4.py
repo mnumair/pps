@@ -1,1 +1,0 @@
-print("animal 4")
